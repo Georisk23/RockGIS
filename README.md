@@ -2,7 +2,7 @@
 
 ## A rockfall simulation code considering fragmentation
 Universitat Politècnica de Catalunya  
-Departament d'Enginyeria Civil i Abbiental  
+Departament d'Enginyeria Civil i Ambiental  
 
 ## Model Description
 Rockgis takes a lumped mass approach, representing blocks as single points in space with position, linear, and angular velocities. The terrain is represented by a raster file, and height at each point is computed using bilinear interpolation.  
