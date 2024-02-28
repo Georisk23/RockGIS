@@ -1,0 +1,68 @@
+## Path to input/output files
+
+DEM_path = Z:\\TUTORIAL\\StudyCase\\Data\\DEM.txt
+OBJECTS_path = Z:\\TUTORIAL\\StudyCase\\Data\\Barriers_ON.txt
+Sources_path = Z:\\TUTORIAL\\StudyCase\\sources.txt
+
+Trajectories_path = Z:\\TUTORIAL\\StudyCase\\Results\\trejectories.csv
+Stoppages_path = Z:\\TUTORIAL\\StudyCase\\Results\\stoppages.csv
+Passages_path = Z:\\TUTORIAL\\StudyCase\\Results\\PASSAGES.txt
+Impacts_path = Z:\\TUTORIAL\\StudyCase\\Results\\Impacts.csv
+
+
+
+## Cinematic parameters
+
+TimeStep = 0.01			# Timestep for the parabolic flight [s]
+StopVelocity = 0.5		# Stopping velocity criterion [m/s]
+Kna = 19.5			# Multiplier of the power law relating the normal impact velocity with the normal restitution coefficient [-]
+Knb = -1.03			# Exponent of the power law relating the normal impact velocity with the normal restitution coefficient [-]
+Kta = 200.0			# Parameter that controls the hyperbolic function for the tangential restitution coefficient [-]
+KtRough = 0.5			# Controls roughnes variability when computing tangentian COR depending on volume [0-0.8]
+
+RockDensity = 2800		# Rock density [kg/m³]
+DragLayerHeigh = 1.0		# Height of the drag layer [m]
+DragSpeedLimit = 5.0		# Maximum velocity at what drag force is applyed [m/s]
+DragCoeficient = 0.0		# Acceletation in oposite direction of the velocity for stoppage [m/s2]
+
+
+
+## Fragmentation parameters
+
+r_variant = 0.0			# Scale variant power laws controlling parameter [0.0=scala invariant, >0 scale invariant]
+na1 = 0.0031			# na1 and na2 control the power law relating the normal impact remaining energy andthe new area [-]
+na2 = 0.7562			
+b1 = -1.6125			# b1 and b2 control fractal dimension when fragmenting depending on new area/total area ratio [-]
+b2 = 2.4875
+q1 = -0.5125			# q1 and q2 control survival probability [-]
+q2 = 1.0			
+MinAreaRatio = 	9999		# Minim ratio between new area and total area to triger fragmentation [USUAL: 0.25-0.7 | To disable fragmentation: 9999]
+VminFrag = 0.0001		# Minimum fragment to consider when generating new fragments [m³]
+Cone = 50.0			# Cone total oberture angle [º]
+LimitAngle = 5.0		# Minimum accepted angle between cone output and terrain surface [º]
+
+
+
+## Barriers parameters
+
+Ep1 = 3000			# Maximum energy [kJ] for barrier #1
+Hp1 = 5				# Height [m] for barrier #1
+Ep2 = 3000			# Maximum energy [kJ] for barrier #2
+Hp2 = 5				# Height [m] for barrier #2
+Ep3 = 3000			# Maximum energy [kJ] for barrier #3
+Hp3 = 5				# Height [m] for barrier #3
+
+
+
+## Stochasticity control
+
+InitialSeed = 12345		# Seed for stochasticity [int]
+AspectVar =  0.25		# Random variation range on local Aspect at impact [rad]
+SlopeVar = 0.7			# Random variation range on local Slope at impact [rad]
+
+
+
+## Program configuration. Debug mode and 3D trajectories storage
+
+PrintMode = 0			# Prints in terminal details of the computation [1=True, 0=False]
+StoreTrajectories = 0		# Stores full trajectories on selected file [1=True, 0=False]
