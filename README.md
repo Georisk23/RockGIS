@@ -20,9 +20,10 @@ Precompiled versions of the code are available for convenience.
 
 ## References
 Project Website: [Georisk](https://georisk.upc.edu/en)  
-Scientific Articles:
-- Matas G., Lantada N., Corominas J., Gili J.A., Ruiz-Carulla R., Prades A. (2020) Simulation of full-scale rockfall tests with a fragmentation model. Geosciences, 10 (5), 168, Special Issue "Rock Fall Hazard and Risk Assessment
-- Matas G., Lantada N., Corominas J. , Gili J.A., Ruiz-Carulla R., Prades A. (2017).  RockGIS: A GIS-based model for the analysis of fragmentation in rockfalls. Landslides 14(5), 1565-1578. DOI.doi:10.1007/s10346-017-0818-7
+Scientific publications:
+- Matas G. (2020) Modelling fragmentation in rockfalls. Tesis doctoral del programa de Ingeniería del Terreno. Dpto. de Ingeniería de Ingeniería Civil y Ambiental (Universitat Politècnica de Catalunya. UPC-BarcelonaTech). [Acces thesis Article](https://georisk.upc.edu/es/shared/articles_pdf/Matasetal.2017Preprint.pdf)
+- Matas G., Lantada N., Corominas J., Gili J.A., Ruiz-Carulla R., Prades A. (2020) Simulation of full-scale rockfall tests with a fragmentation model. Geosciences, 10 (5), 168, Special Issue "Rock Fall Hazard and Risk Assessment [Acces Article](https://doi.org/10.3390/geosciences10050168)
+- Matas G., Lantada N., Corominas J. , Gili J.A., Ruiz-Carulla R., Prades A. (2017).  RockGIS: A GIS-based model for the analysis of fragmentation in rockfalls. Landslides 14(5), 1565-1578. DOI.doi:10.1007/s10346-017-0818-7 [Acces Article](https://georisk.upc.edu/es/shared/articles_pdf/Matasetal.2017Preprint.pdf)
 
 ## Tutorial
 A video tutorial demonstrating how to use the code is available on project website [Video-Tutorial](https://georisk.upc.edu/en) 
