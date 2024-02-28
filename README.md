@@ -26,7 +26,7 @@ Scientific publications:
 - Matas G., Lantada N., Corominas J. , Gili J.A., Ruiz-Carulla R., Prades A. (2017).  RockGIS: A GIS-based model for the analysis of fragmentation in rockfalls. Landslides 14(5), 1565-1578. DOI.doi:10.1007/s10346-017-0818-7 [Acces Article](https://georisk.upc.edu/es/shared/articles_pdf/Matasetal.2017Preprint.pdf)
 
 ## Tutorial
-A video tutorial demonstrating how to use the code is available on [project website](https://georisk.upc.edu/en). A basic preconfigured study-case is provided there.  
+A video tutorial demonstrating how to use the code is available on [project website](https://georisk.upc.edu/en). A basic preconfigured study-case is provided here in folder "CaseStudy".  
 
 ## Aknowledgments
 This work has been developed in the framework of the Georisk project, “Advances in rockfall quantitative risk analysis (QRA) incorporating developments in geomatics (GeoRisk)”, PID2019-103974RB-I00, funded by CIN/AEI/10.13039/501100011033, the Ministerio de Ciencia e Innovación and the Agencia Estatal de Investigación of Spain.
