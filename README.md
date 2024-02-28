@@ -1,6 +1,6 @@
-#RockGIS
+# RockGIS
 
-**A rockfall simulation code considering fragmentation.**
+## A rockfall simulation code considering fragmentation
 Universitat Politècnica de Catalunya
 Departament d'Enginyeria Civil i Abbiental
 
@@ -23,8 +23,8 @@ Precompiled versions of the code are available for convenience.
     Project Website: https://georisk.upc.edu/en
     Scientific Articles: [List of Articles]
 
-**Tutorial**
+**Tutorial**\n
 A video tutorial demonstrating how to use the code is available.
 
-**Aknowledgments**
+**Aknowledgments**\n
 This work has been developed in the framework of the Georisk project, “Advances in rockfall quantitative risk analysis (QRA) incorporating developments in geomatics (GeoRisk)”, PID2019-103974RB-I00, funded by CIN/AEI/10.13039/501100011033, the Ministerio de Ciencia e Innovación and the Agencia Estatal de Investigación of Spain.
