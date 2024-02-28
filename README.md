@@ -1,4 +1,4 @@
-# RockGIS
+# ![RockGIS](Dragster.jpg)
 
 ## A rockfall simulation code considering fragmentation
 Universitat Politècnica de Catalunya  
