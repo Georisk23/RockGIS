@@ -1,0 +1,15 @@
+# This makefile is for compiling RockGIS from linux
+# to be used on a windows system
+# Required dependencies:
+# sudo apt-get install gcc-mingw-w64-x86-64 g++-mingw-w64-x86-64 wine64
+
+
+CC=x86_64-w64-mingw32-g++
+CFLAGS=-std=c++11 -lm -O3 -w -static-libgcc -static-libstdc++
+SOURCE:= $(wildcard src/*.cpp)
+EXE=RockGIS_Windows.exe
+
+all:
+	$(CC) $(CFLAGS) $(SOURCE) -o $(EXE)
+
+
