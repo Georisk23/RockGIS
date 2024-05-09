@@ -33,3 +33,6 @@ This work has been developed in the framework of the following research projects
 - **Georisk**, “Advances in rockfall quantitative risk analysis (QRA) incorporating developments in geomatics (GeoRisk)”, PID2019-103974RB-I00, funded by MCIN/AEI/10.13039/501100011033, the Ministerio de Ciencia e Innovación and the Agencia Estatal de Investigación of Spain.
 - **RockModels**, "Characterization and modeling of rockfalls". (Ref.BIA2016-75668-P, AEI/FEDER,UE) funded by the Spanish Ministry of Economy and Competitiveness,and co-funded by the Agencia Estatal de Investigación (AEI) and The European Regional Development Fund (ERDF or FEDER in Spanish).
 - **RockRisk** (Ref. BIA2013-42582-P) of the Spanish Ministry of Economy and Competitiveness and the grant to the first author (BES-2014-069795).
+
+## Licence
+This work is licenced under the GPLv3 licence.
