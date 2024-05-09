@@ -35,4 +35,4 @@ This work has been developed in the framework of the following research projects
 - **RockRisk** (Ref. BIA2013-42582-P) of the Spanish Ministry of Economy and Competitiveness and the grant to the first author (BES-2014-069795).
 
 ## License
-This work is licenced under the GPLv3 licence.
+This work is licensed under the GPLv3 licence.
