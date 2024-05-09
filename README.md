@@ -34,5 +34,5 @@ This work has been developed in the framework of the following research projects
 - **RockModels**, "Characterization and modeling of rockfalls". (Ref.BIA2016-75668-P, AEI/FEDER,UE) funded by the Spanish Ministry of Economy and Competitiveness,and co-funded by the Agencia Estatal de Investigación (AEI) and The European Regional Development Fund (ERDF or FEDER in Spanish).
 - **RockRisk** (Ref. BIA2013-42582-P) of the Spanish Ministry of Economy and Competitiveness and the grant to the first author (BES-2014-069795).
 
-## Licence
+## License
 This work is licenced under the GPLv3 licence.
